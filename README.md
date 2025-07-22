@@ -130,15 +130,8 @@ Our findings directly inform infrastructure policy:
 
 **Corresponding Author:** Ruhaimatu Abudu  
 **Email:** ruhaimatu.abudu@ndsu.edu  
-**Affiliation:** North Dakota State University, Department of Economics
+**Affiliation:** North Dakota State University, Department of Transportation, Logistics and Finance
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-We thank seminar participants and conference attendees for helpful comments. Any errors are our own.
 
 ---
 
